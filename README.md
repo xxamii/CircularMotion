@@ -6,3 +6,7 @@ A nice visual effect of circular motion around the cursor.
 
 - Download the repository and unzip it.
 - Open index.html in your browser.
+
+# What I Learned
+
+- How to use JavaScript Canvas.
